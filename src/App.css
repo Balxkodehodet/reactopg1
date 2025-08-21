@@ -49,6 +49,12 @@
   padding: 15px;
   margin: 15px;
   border: solid black 2px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+}
+
+.matrett:hover {
+  transform: scale(1.2);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
 }
 li {
   margin-bottom: 0.5rem;
